@@ -1,0 +1,19 @@
+{
+  "name"          : "node-module-util",
+  "description"   : "A set of module utilities for Node.js",
+  "version"       : "0.1.0",
+  "main"          : "./lib/moduleutil.js",
+  "repository"    : {
+    "type": "git",
+    "url" : "git@github.com:zappan/node-module-util.git"
+  },
+  "dependencies"  : {
+    "sprintf": "~0.1.x"
+  },
+  "keywords"      : [
+    "node",
+    "node.js"
+  ],
+  "author"        : "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license"       : "MIT"
+}
